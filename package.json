@@ -1,0 +1,12 @@
+{
+  "name": "particle-initialstate",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wgbartley/particle-initialstate.git"
+  },
+  "dependencies": {
+    "spark": "^1.0.0",
+    "initial-state": "^0.2.0"
+  }
+}
